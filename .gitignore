@@ -1,0 +1,70 @@
+# -------------------------
+# Python Cache Files
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+venv/
+env/
+.venv/
+ENV/
+
+# -------------------------
+# Distribution / Packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# -------------------------
+# PyInstaller
+# -------------------------
+*.spec
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# Qt / PySide Specific
+# -------------------------
+*.ui~
+*.qrc~
+*.pyc
+*.pyo
+
+# Qt Designer temporary files
+*.autosave
+
+# -------------------------
+# IDE Files
+# -------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Test / Coverage
+# -------------------------
+.coverage
+htmlcov/
+.pytest_cache/
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
